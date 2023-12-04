@@ -5,8 +5,6 @@
 
 <br />
 
-<div align="center">
-  <video width="320" height="240" autoplay muted>
-    <source src="demo.mp4" type="video/mp4">
-  </video>
-</div>
+<p align="center">
+   <img src="demo.gif" />
+</p>
